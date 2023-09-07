@@ -9,3 +9,9 @@ Para asignarle IP por servicio de DHCP
 Si queremos ver cómo es el proceso de asignación:
 
     >ip dhcp -d
+
+## PING
+
+Probar la conectivididad entre dispositivos
+
+    ping IP
