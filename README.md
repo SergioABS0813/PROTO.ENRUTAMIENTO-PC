@@ -20,3 +20,10 @@ Si queremos ver cómo es el proceso de asignación:
 Probar la conectivididad entre dispositivos
 
     ping IP
+
+## PING (FORMA MÁS RÁPIDA) linux
+
+
+
+
+
